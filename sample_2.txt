@@ -1,0 +1,1 @@
+This is testing of git log  --online --all[D[D[D[D[D[D[D[C[C--graph --all
